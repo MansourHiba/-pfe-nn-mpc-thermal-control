@@ -1,0 +1,6 @@
+numpy
+paho-mqtt
+adafruit-circuitpython-dht
+RPi.GPIO
+scikit-learn
+tflite-runtime
